@@ -1,0 +1,4 @@
+[submodule "contents"]
+	path = contents
+	url = https://github.com/kleiner-ma/contents.git
+	branch = master
