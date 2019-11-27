@@ -1,0 +1,95 @@
+title = "Project 01771"
+baseURL = "https://01771.github.io/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+publishDir = "docs"
+
+# The site's parameters
+[params]
+  home = "Home"
+  
+  [menu]
+
+    [[menu.header]]
+      weight = 2
+      name = "Project_01771"
+      url = "service"
+    [[menu.header]]
+      weight = 3
+      name = "Portfolio"
+      url = "work"
+    [[menu.header]]
+      weight = 4
+      name = "Blog"
+      url = "blog"
+    [[menu.header]]
+      weight = 5
+      name = "Contact"
+      url = "contact"
+
+   
+    [[menu.footer]]
+      weight = 1
+      name = "Blog"
+      url = "blog"
+    [[menu.footer]]
+      weight = 2
+      name = "간판이끼"
+      url = "project1"
+    [[menu.footer]]
+      weight = 3
+      name = "PROJECT2"
+      url = "project2"
+    [[menu.footer]]
+      weight = 4
+      name = "Contact us"
+      url = "contact"
+
+  [params.slider]
+    enable = true
+    title = "Project 01771"
+    subtitle = "프로젝트이끼는 세상에 흩어져 있는 작고 큰 것들을 연결하고자 합니다"
+    bgImage = "img/slider-bg.jpg"
+    btnText = "Discover Our Projects"
+    url = "work"
+
+  [params.wrapper]
+    enable = true
+    image = "img/wrapper-img.png"
+    title = "About Us"
+    paragraph = "(시작하게 된 배경, 구성원/이끼/가치관 등의 간략한 소개) 이끼에 대한 설명을 써보아요.. 근데 Enter 기능이 안되서 쓰기 좀 불편할듯... wrapper.html 생각해보고 다시 작성하거나 그냥 5~6줄 정도로 마무리해도 될 것 같습니다~"
+
+
+  [params.feature]
+    enable = true
+    title = "We believe in great ideas"
+    bgImage = "img/feature-bg.jpg"
+    content = ""
+    [params.feature.button]
+      caption = "About Project 01771"
+      url = "service"
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Feel Free to Contact"
+      address = "-"
+      email = "Email: ikki01771@gmail.com"
+      phone = "-"
+
+  [params.call]
+    enable = true
+    bgImage = "img/call-to-action-bg.jpg"
+    title = "우리가 기록하는 프로젝트 01771"
+    paragraph = "프로젝트이끼가 만들어진 배경, 우리가 겪은 시행착오들과 앞으로 겪게 될 이끼의 이야기를 기록합니다."
+    [params.call.button]
+      url = "/blog"
+      text = "See our blog"

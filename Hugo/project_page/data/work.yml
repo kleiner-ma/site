@@ -1,0 +1,57 @@
+enable: true
+title: Just some of our latest projects.
+subtitle: Don’t just take our word for it. Check out some of our latest work.
+
+# google support the latest technology for image optimization. you can also optimize your image from https://www.ps2pdf.com/convert-jpg-to-webp here.
+portfolio:
+  - category: 간판이끼
+    image: "/img/portfolio/work1.jpg"
+    name: 간판이끼
+    pjtURL: "/project1"
+    description: >
+      첫번째 이끼, 직접 찍은 간판으로 끝말잇기
+  - category: PROJECT2
+    image: "/img/portfolio/work1.jpg"
+    name: PROJECT2
+    pjtURL: "/project2"
+    description: >
+      두번째 이끼, 블라블라 블라블라 블라블라
+  - category: PROJECT3
+    image: "/img/portfolio/work2.jpg"
+    name: PROJECT3
+    pjtURL: "/project3"
+    description: >
+      세번째 이끼, 블라블라 블라블라 블라블라
+  - category: PROJECT4
+    image: "/img/portfolio/work3.jpg"
+    name: PROJECT4
+    pjtURL: "/project4"
+    description: >
+      네번째 이끼, 블라블라 블라블라 블라블라
+
+      
+clients:
+  - image: "/img/clients/clients-logo1.png"
+    url: "#"
+  - image: "/img/clients/clients-logo2.png"
+    url: "#"
+  - image: "/img/clients/clients-logo3.png"
+    url: "#"
+  - image: "/img/clients/clients-logo4.png"
+    url: "#"
+  - image: "/img/clients/clients-logo5.png"
+    url: "#"
+  - image: "/img/clients/clients-logo4.png"
+    url: "#"
+  - image: "/img/clients/clients-logo3.png"
+    url: "#"
+  - image: "/img/clients/clients-logo2.png"
+    url: "#"
+  - image: "/img/clients/clients-logo1.png"
+    url: "#"
+  - image: "/img/clients/clients-logo2.png"
+    url: "#"
+  - image: "/img/clients/clients-logo3.png"
+    url: "#"
+  - image: "/img/clients/clients-logo4.png"
+    url: "#"

@@ -1,0 +1,26 @@
+enable: true
+title: Project 01771
+subtitle: >
+  세상의 작고 큰 모든 것들을 잇기[읻:끼]위한 프로젝트, 01771
+content:
+
+ 
+  - icon: ion-compass
+    name: Connect
+    text: >
+      사람과 정보 등 연결되지 않는 것에서 시작되는 불편함을 '잇기[읻:끼]'를 통해 해결하고자 합니다.
+
+  - icon: ion-headphone
+    name: Extend
+    text: >
+      끊임없이 자라나는 이끼처럼, 강한 생명력과 실행력을 바탕으로 세상에 이로움을 퍼뜨리고자 합니다.
+
+  - icon: ion-leaf
+    name: Surprise
+    text: >
+      감탄사의 의미도 갖고 있는 '이끼'처럼, 생각지 못한 무언가를 통해 일상 속 의외의 즐거움을 주고자 합니다. 
+
+  - icon: ion-planet
+    name: Idea?
+    text: >
+      Anything you want, or we just can delete this one  
